@@ -11,6 +11,8 @@ The **SST** token is an ERC-20 compliant token that allows for easy integration 
 
 ## Contract Address :
 0x15C1ea026DBa9Ac4a8091DF8D27f086cc3aDe24b
+![image](https://github.com/user-attachments/assets/71e624f2-8f62-474b-8014-10bc56b271a8)
+
 
 ## Project Vision
 The vision of the **StudySessionToken (SST)** project is to create a decentralized educational platform that rewards knowledge sharing and collaborative learning. We aim to foster a global community where users are incentivized to contribute by hosting study sessions and exchanging knowledge. 
